@@ -1,0 +1,15 @@
+Q1- Explain How The Web Works ? and Explain What is “client server model”?
+A-When you access a website, your device (referred to as the client) sends a request to a remote server. This request typically includes the URL or web address of the page you want to access. The server receives the request, retrieves the necessary resources (such as HTML files, images, and scripts), and sends them back to your device. Your device then renders the web page in your browser, allowing you to interact with it.
+
+The client-server model is a common architecture used in web-based systems, where the client device communicates with a remote server to access and use resources. In this model, the client initiates requests for data or services, and the server responds to these requests by providing the requested resources or performing the requested actions. This allows for a separation of concerns between the client and server, with the server responsible for managing the data and logic of the system and the client responsible for presenting the data to the user and handling user interactions. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q2-Explain what are class and object in OOP ? and what is the difference between them .
+A-In Object-Oriented Programming (OOP), a class is a blueprint for creating objects. It defines a set of attributes (data) and methods (functions) that describe the behavior of objects of that class. Classes are used to create objects that can be manipulated, and they provide a way to organize and encapsulate data and behavior.
+
+An object, on the other hand, is an instance of a class. It is created based on the blueprint provided by the class and contains its own set of data and methods. Objects can interact with each other by invoking each other's methods, and they can also modify their own data.
+
+The main difference between a class and an object is that a class is a template or blueprint for creating objects, while an object is an instance of a class. A class describes the common properties and behavior of a group of objects, while an object is a specific instance of a class with its own unique data.
+
+In OOP, you can create multiple objects from the same class, each with its own set of data and behavior. This allows for the efficient reuse of code, as you can define a single class and create many instances of it with different data. Additionally, by encapsulating data and behavior within a class, you can create more modular and maintainable code that is easier to understand and modify over time.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
